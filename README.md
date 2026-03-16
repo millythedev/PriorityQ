@@ -2,7 +2,7 @@
 
 A command line task manager built in C++. Supports adding, sorting, filtering, and persisting tasks with color coded priority levels and a live progress tracker.
 
-![PriorityQ Demo](demo.gif)
+![PriorityQ Demo](PriorityQPresentation.gif)
 
 ## Features
 
