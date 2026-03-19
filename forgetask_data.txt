@@ -1,4 +1,5 @@
+3,Code Review,2026-01-22,MEDIUM,1
+4,Fix End Case issue,2026-6-21,MEDIUM,0
+5,Fix Loop bug,2026-08-01,MEDIUM,0
 1,Update README.md docs for jgl project,2026-04-27,LOW,1
 2,Fix .cvv file for Job Application Logger,2025-12-28,LOW,1
-3,Code Review,2026-01-22,MEDIUM,0
-4,Fix End Case issue,2026-6-21,MEDIUM,0

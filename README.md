@@ -39,5 +39,7 @@ PriorityQ/
 ├── Task.h/.cpp       - Task data structure and priority enum
 ├── TaskManager.h/.cpp - Core task operations and sorting
 ├── FileHandler.h/.cpp - File save and load logic
+├── PriorityQPresentation.gif - presentation of working project
 └── README.md
+
 ```
