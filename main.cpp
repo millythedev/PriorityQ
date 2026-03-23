@@ -79,7 +79,7 @@ void printProgressBar(int completed, int total) {
 void printMenu() {
     std::cout << "\n" << CYAN
               << "  +==========================+\n"
-              << "  |  " << BOLD << "  PriorityQ CLI v1.0  " << RESET << CYAN << "  |\n"
+              << "  |  " << BOLD << "    PriorityQ CLI    " << RESET << CYAN << "  |\n"
               << "  +==========================+\n"
               << "  |  1. Add Task             |\n"
               << "  |  2. List All Tasks       |\n"
